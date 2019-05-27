@@ -1,0 +1,4 @@
+node_modules/
+publics/uploads/cv/*
+publics/uploads/perfiles/*
+variables.env
